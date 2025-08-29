@@ -1,0 +1,27 @@
+{
+  "name": "image-to-text-converter",
+  "version": "1.0.0",
+  "description": "An OCR script to convert image text to JSON",
+  "type": "module",
+  "scripts": {
+    "process": "node --loader ts-node/esm src/process-image.ts"
+  },
+  "keywords": [
+    "ocr",
+    "tesseract",
+    "typescript",
+    "node",
+    "sharp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.4",
+    "tesseract.js": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}

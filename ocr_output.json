@@ -1,0 +1,95 @@
+{
+  "imageFile": "image.jpg",
+  "questions": [
+    {
+      "questionNumber": 0,
+      "text": "Then the point (or, 3) 1ies on the 1ine [29 Jan, 2024 (Shift-11)]",
+      "options": [
+        {
+          "key": "a",
+          "text": "3x+2y 2 (bh) 5x-8y-9 ("
+        },
+        {
+          "key": "c",
+          "text": "3x--2y 2 ("
+        },
+        {
+          "key": "d",
+          "text": "5x +89"
+        }
+      ]
+    },
+    {
+      "questionNumber": 1,
+      "text": ": : : 1 then the quadratic equation having roots i and f1 1S: o",
+      "options": [
+        {
+          "key": "a",
+          "text": "x* x+1-0 (h) x\" +x 1-0 ("
+        },
+        {
+          "key": "c",
+          "text": "xx 1 0 ("
+        },
+        {
+          "key": "d",
+          "text": "x 1x11 0"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "text": "1et the equation x(x +2) (12-k) = 2 have equa1 roots. Then the distance k of the pot x5 3 fromthe hne 3x +4y + 5-018 (03 Apri1, 2025 (Shift-I1)]",
+      "options": [
+        {
+          "key": "a",
+          "text": "15 ("
+        },
+        {
+          "key": "b",
+          "text": "53 () 1545 ("
+        },
+        {
+          "key": "d",
+          "text": "12"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "text": "The sum of the squares of the roots of [x 12 1x 2] 2 0 and ps the squares of the roots of x 2|x 3] 5 01s [08 Apri1, 2025 (Shift-IT)]",
+      "options": [
+        {
+          "key": "a",
+          "text": "26 ("
+        },
+        {
+          "key": "b",
+          "text": "36 ("
+        },
+        {
+          "key": "c",
+          "text": "30 ("
+        },
+        {
+          "key": "d",
+          "text": "24"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "text": "1.cta, and be the distinct roots of 2x7 + (cos0)x ~ 1= 0,0 (0, 2m). [fm and M arc the minimum and the maximum va1ues of og + [3 then 16(M + m) equa1s: [22 Jan, 2025 (Shift-1I)] (@) 24",
+      "options": [
+        {
+          "key": "b",
+          "text": "25 ) 17"
+        },
+        {
+          "key": "d",
+          "text": "27"
+        }
+      ]
+    }
+  ]
+}
